@@ -7,7 +7,6 @@ Feel free to propse additions to the list!
 
 It is strongly inspired by [open-speech-corpora](https://github.com/JRMeyer/open-speech-corpora)
 
-
 | CORPUS                                                       | # HOURS OF TRAINING DATA    | # SPEAKERS                            | DOWNLOAD                                                              | LICENSE                 | TESTSET | ETC                       |   |
 |--------------------------------------------------------------|-----------------------------|---------------------------------------|-----------------------------------------------------------------------|-------------------------|---------|---------------------------|---|
 | KSS dataset                                                  | 12                          | 1(female, professional voice actress) | https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset | No commercial           |         | 44.1kHz                   |   |
@@ -20,5 +19,5 @@ It is strongly inspired by [open-speech-corpora](https://github.com/JRMeyer/open
 | AIHUB                                                        | 1000                        |                                       | https://aihub.or.kr/aidata/105/download                               | AIHUB 허가 후 사용 가능 | O       | 대화                      |   |
 | AIHUB2                                                       | 2000                        |                                       | https://aihub.or.kr/aidata/7968                                       | AIHUB 허가 후 사용 가능 |         | 방송녹음/ 미출시          |   |
 | AISTARTHON                                                   |                             |                                       | https://aihub.or.kr/open_data/ai_starthon_x_naver/download            | AIHUB 허가 후 사용 가능 |         | 문제 생겨서 다운로드 막힘 |   |
-| 잡음처리 및 음성검출을 위한 스마트폰 환경 연속어 음성 데이터 |                             |                                       | https://aiopen.etri.re.kr/service_dataset.php?category=voice          |                         |         |                           |   |
-| 음성인터페이스 개발을 위한 어린이음성데이터                  |                             |                                       | https://aiopen.etri.re.kr/service_dataset.php?category=voice          |                         |         |                           |   |
+| 잡음처리 및 음성검출을 위한 스마트폰 환경 연속어 음성 데이터 |                             |                                       | https://aiopen.etri.re.kr/service_dataset.php?category=voice          | ETRI 허가 후 사용 가능  |         |                           |   |
+| 음성인터페이스 개발을 위한 어린이음성데이터                  |                             |                                       | https://aiopen.etri.re.kr/service_dataset.php?category=voice          | ETRI 허가 후 사용 가능  |         |                           |   |
