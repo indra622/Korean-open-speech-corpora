@@ -7,6 +7,10 @@ Feel free to propse additions to the list!
 
 It is strongly inspired by [open-speech-corpora](https://github.com/JRMeyer/open-speech-corpora)
 
+
+
+last updated: 2021.2.24
+
 | CORPUS                                                       | # HOURS OF TRAINING DATA    | # SPEAKERS                            | DOWNLOAD                                                              | LICENSE                 | TESTSET | ETC                       |   |
 |--------------------------------------------------------------|-----------------------------|---------------------------------------|-----------------------------------------------------------------------|-------------------------|---------|---------------------------|---|
 | KSS dataset                                                  | 12                          | 1(female, professional voice actress) | https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset | No commercial           |         | 44.1kHz                   |   |
