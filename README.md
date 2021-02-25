@@ -9,7 +9,7 @@ It is strongly inspired by [open-speech-corpora](https://github.com/JRMeyer/open
 
 
 
-last updated: 2021.2.24
+last updated on Feb. 24, 2021
 
 | CORPUS                                                       | # HOURS OF TRAINING DATA    | # SPEAKERS                            | DOWNLOAD                                                              | LICENSE                 | TESTSET | ETC                       |   |
 |--------------------------------------------------------------|-----------------------------|---------------------------------------|-----------------------------------------------------------------------|-------------------------|---------|---------------------------|---|
